@@ -1,0 +1,22 @@
+input neurons: (6)
+BrdrTop : distance to border top from 0 to 1
+BrdrBot : 
+BrdrR   :
+BrdrL   :
+HasNeighbors : determines if there are other bobs in n cell vicinity 
+Life    : 0 is start 1 is end, slowly increases throughout sim
+
+internal neurons: ()
+
+
+output neurons: (5)
+MvUp
+MvD
+MvR
+MvL
+MvRandom
+Halt
+
+
+
+
